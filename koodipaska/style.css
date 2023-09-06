@@ -1,0 +1,25 @@
+.nakki {
+    border-style: groove;
+    border-width: 20px;
+    text-align: center
+}
+body {
+    background-image: url('Untitled\ design.jpg');
+    background-size: cover;
+}
+.kuula {
+    width: 500px;
+    height: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+.liha {
+    width: 500px;
+    height: 350px; 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
